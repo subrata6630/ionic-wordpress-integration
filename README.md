@@ -8,7 +8,7 @@ Let's build an Ionic app for your Wordpress site using Wordpress REST API! This 
 
 **Please support this project by simply putting a Github star ⭐.**
 
-🤓 [Check the complete step by step tutorial](https://themes-coder.com/help-center/ionic-woocommerce-pre-requisites/).
+🤓 [Check the complete step by step tutorial](https://ionicthemes.com/tutorials/ionic-wordpress-integration).
 
 🚀 [Try the demo](https://ionic-wordpress-tutorial.web.app/).
 
