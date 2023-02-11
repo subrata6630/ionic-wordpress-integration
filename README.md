@@ -8,7 +8,7 @@ Let's build an Ionic app for your Wordpress site using Wordpress REST API! This 
 
 **Please support this project by simply putting a Github star ⭐.**
 
-🤓 [Check the complete step by step tutorial](https://ionicthemes.com/tutorials/about/ionic-wordpress-integration).
+🤓 [Check the complete step by step tutorial](https://themes-coder.com/help-center/ionic-woocommerce-pre-requisites/).
 
 🚀 [Try the demo](https://ionic-wordpress-tutorial.web.app/).
 
@@ -53,6 +53,12 @@ The Capacitor workflow involves a few consistent tasks:
 - [Copy your Web Assets](https://capacitor.ionicframework.com/docs/basics/workflow/#2-copy-your-web-assets)
 - [Open your Native IDE](https://capacitor.ionicframework.com/docs/basics/workflow/#3-open-your-native-ide)
 - [Periodic Maintenance](https://capacitor.ionicframework.com/docs/basics/workflow/#4-periodic-maintenance)
+
+### 
+- You must have wordpress site setup with woocommerce plugin.
+- You must have a Facebook account to setup facebook login
+- You must create firebase account setup
+- You must have OneSignal account setup for push notifications.
 
 #### iOS Platform
 Read how to [build this app for iOS](https://capacitor.ionicframework.com/docs/basics/building-your-app#ios).
